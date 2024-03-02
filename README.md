@@ -1,1 +1,1 @@
-This is an AI chatbot that mimics gemini AI by google
+This is an app that acts as your personalized AI trainer 
